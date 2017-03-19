@@ -1,0 +1,16 @@
+#HELP#
+
+base64:
+Type base64 to encode or decode a string.
+
+conf:
+Configure the terminal.
+
+hash:
+Type hash to list the hashes availables.
+
+help:
+Show this help,or in a command,show the help for the command.
+
+quit:
+Exit the terminal.
